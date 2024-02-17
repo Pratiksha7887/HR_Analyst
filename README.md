@@ -1,6 +1,4 @@
-![HR-Analytics-Importance-and-Features-of-HR-Analytics jpg optimal](https://github.com/Pratiksha7887/HR_Analyst/assets/157275594/7ced4c32-bb06-4a46-8de4-e1639bb52afd)
-
-### HR Analyst
+#### HR Analyst
 
 ## About Project
 
